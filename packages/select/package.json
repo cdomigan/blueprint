@@ -33,7 +33,7 @@
     "verify": "npm-run-all compile -p dist test lint"
   },
   "dependencies": {
-    "@blueprintjs/core": "^3.9.0",
+    "@blueprintjs/core": "https://github.com/cdomigan/blueprint/tarball/cc84dd3206ef9a4209995968ff5b0e6fa4dca506",
     "classnames": "^2.2",
     "tslib": "^1.9.0"
   },
